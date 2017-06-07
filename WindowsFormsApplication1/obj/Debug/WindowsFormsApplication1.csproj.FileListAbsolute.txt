@@ -1,0 +1,13 @@
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Хаёвня\3 курс\2 семестр\Лабы\КУРСАЧ!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
